@@ -1,5 +1,4 @@
 node_modules
-public
 expenseData.js
 jsconfig.json
-vite.config.js
+dist
